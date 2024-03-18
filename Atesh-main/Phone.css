@@ -1,0 +1,19 @@
+html{
+    font-size: 70%;
+}
+#Headline-Container {
+    height: clamp(33px, 5vh, 33px);
+}
+.Profile-Boxs {
+    width: clamp(112px, 30vw, 112px);
+    height: clamp(173px, 26vh, 173px);
+}
+.Profile-Container {
+    height: clamp(200px, 30vh, 200px);
+}
+.Profile-Names-H {
+    font-size: 10px;
+}
+nav {
+    height: clamp(40px, 6vh, 40px);
+}
